@@ -1,0 +1,68 @@
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 11:59:56 AM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:00:04 PM EST
+Checking for changes between source and snapshot...
+Changes detected. Creating incremental backup...
+Incremental backup completed successfully: /home/ab/bu/backup/incremental_backup_2024-11-26_12-00-04.tar.gz
+Updating snapshot directory with the latest state of the source directory...
+Snapshot updated successfully.
+Incremental backup process completed at Tue 26 Nov 2024 12:00:04 PM EST
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:09:41 PM EST
+Checking for changes between source and snapshot...
+Changes detected. Creating incremental backup...
+Incremental backup completed successfully: /home/ab/bu/backup/incremental_backup_2024-11-26_12-09-41.tar.gz
+Updating snapshot directory with the latest state of the source directory...
+Snapshot updated successfully.
+Incremental backup process completed at Tue 26 Nov 2024 12:09:41 PM EST
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:09:45 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:09:46 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:09:47 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:10:25 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:10:48 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:11:03 PM EST
+Checking for changes between source and snapshot...
+Changes detected. Creating incremental backup...
+Incremental backup completed successfully: /home/ab/bu/backup/incremental_backup_2024-11-26_12-11-03.tar.gz
+Updating snapshot directory with the latest state of the source directory...
+Snapshot updated successfully.
+Incremental backup process completed at Tue 26 Nov 2024 12:11:03 PM EST
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:11:14 PM EST
+Checking for changes between source and snapshot...
+Changes detected. Creating incremental backup...
+Incremental backup completed successfully: /home/ab/bu/backup/incremental_backup_2024-11-26_12-11-14.tar.gz
+Updating snapshot directory with the latest state of the source directory...
+Snapshot updated successfully.
+Incremental backup process completed at Tue 26 Nov 2024 12:11:14 PM EST
+===================================================
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:11:16 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
+===================================================
+Starting incremental backup at Tue 26 Nov 2024 12:11:18 PM EST
+Checking for changes between source and snapshot...
+No changes detected. Incremental backup not required.
